@@ -15,9 +15,4 @@ A simple BMI calculator built with Flutter. It allows users to input weight and 
 
 ## Screenshots
 ![Screenshot 1](https://github.com/Minhaz081999/Module13Assignment/blob/c27404d9d01d5a7cdae8936f5f7a51d642cc8259/Screenshot_17-11-2025_23634_localhost.jpeg)
-![Screenshot 2](screenshots/result.png)
-
-
-
-## Author
-Your Name
+![Screenshot 2](https://github.com/Minhaz081999/Module13Assignment/blob/c27404d9d01d5a7cdae8936f5f7a51d642cc8259/Screenshot_17-11-2025_2379_localhost.jpeg)
